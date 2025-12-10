@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure--l%z24xtt=yz0$vq)ni1y*7@#=&x08smb18%zyml)^lnx@msu0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://reactdjango-cx0r.onrender.com", "127.0.0.1", "localhost", "https://react-django-gules.vercel.app/"]
+
 
 
 # Application definition
